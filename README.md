@@ -17,7 +17,7 @@
 
 **LEA 암호화 코드**: LEA.c , LEA.h
 
-**LEA CPA 코드**: LEACPA.c, LEACPA.h  (lastcpa가 파일명이 바뀌어야함 아직 git파일 정리중이라)
+**LEA CPA 코드**: LEAlastcpa.c, LEAlastcpa.h LEAlastcpa (2).c, LEAlastcpa (2).h 
 
 **LEA 파형 수집을 위한 코드**: simpleserial-aes.c (기존, aes 파형 수집시 사용했던 코드를 변형 한 것이라 파일명을 바꾸지 않았습니다. makefile을 수정하기 귀찮다,,,,)
 
