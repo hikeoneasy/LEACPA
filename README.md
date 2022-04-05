@@ -19,5 +19,5 @@
 
 **LEA CPA 코드**: LEAlastcpa.c, LEAlastcpa.h LEAlastcpa (2).c, LEAlastcpa (2).h 
 
-**LEA 파형 수집을 위한 코드**: simpleserial-aes.c (기존, aes 파형 수집시 사용했던 코드를 변형 한 것이라 파일명을 바꾸지 않았습니다. makefile을 수정하기 귀찮다,,,,)
+**LEA 파형 수집을 위한 코드**: simpleserial-aes.c (어디갔지...)
 
